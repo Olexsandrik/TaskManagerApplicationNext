@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Tasks } from "./components/Task";
+import { Tasks } from "./components/Tasks";
 
 export default function Home() {
   return <Tasks />;
